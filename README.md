@@ -2,7 +2,7 @@
 Implementation code of AAEDiffusion.
 
 # Data Preparation
-Put your Datasets in "datasets" directory (.mat files).
+Put your datasets(IndianPines,Salinas, PaviaUniversity) in "datasets" directory (.mat files).
 
 # Usage
 
