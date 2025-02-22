@@ -1,5 +1,5 @@
-# AAEDiffusion
-Implementation code of AAEDiffusion.
+# DiffusionAAE
+Implementation code of DiffusionAAE.
 
 # Data Preparation
 Put your datasets(IndianPines,Salinas, PaviaUniversity) in "datasets" directory (.mat files).
